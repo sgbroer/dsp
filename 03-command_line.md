@@ -20,7 +20,18 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+Command | Function
+------------|------------
+**pwd** | output the name of the current working directory
+**mkdir** | create a directory
+**rm -r** | delete a directory
+**touch** | create a new file
+**rm** | delete a file
+**mv** | rename or move a file
+**ls -a** | list all files and directories including hidden ones
+**cp** | copy a file
+**>** | redirect output to overwrite a file
+**sort** | sort lines of text alphabetically
 
 ---
 
@@ -35,16 +46,28 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+Command | Function
+------------|------------
+**ls** | lists contents of a directory
+**ls -a** | lists all contents of a directory, including hidden ones
+**ls -l** | lists contents of a directory in long format 
+**ls -lh** | lists contents of a directory in long format with file size more clearly expressed 
+**ls -lah** | lists all contents of a directory, including hidden ones, in long format with file size more clearly expressed  
+**ls -t** | lists contents of a directory in order of when they were last modified
+**ls -Glp** | lists contents of a directory in long format with directories including / and apparently some sort of color coding
 ---
 
 ### Q3.  More List Files in Unix  
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+Command | Function
+------------|------------
+**ls -S** | lists contents of directory sorted by file size
+**ls -d** | lists only directories
+**ls -u** | lists contents sorted by access time
+**ls -r** | lists in reverse order
+**ls -q** | lists with non-printable characters as ?
 ---
 
 ### Q4.  Xargs   
