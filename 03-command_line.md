@@ -74,7 +74,7 @@ Command | Function
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+'xargs' allows you to pass standard input as an argument to a command that otherwise wouldn't be able to accept it. For example if you wanted to find and remove a file based on a name you could use xargs to pass the standard output from Find as an argument for rm.
 
  
 
