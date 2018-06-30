@@ -4,8 +4,7 @@
 From the output of the code below, first babies appear to be ~.09 of a standard deviation lighter than children not born first.
 While it is a larger effect than the one seen for pregnancy length, it is still under 1/10 a deviation and so quite small overall.
 
-```
-python
+```python
 import numpy as np
 import nsfg
 
