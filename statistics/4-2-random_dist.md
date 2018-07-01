@@ -1,9 +1,9 @@
 [Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) (a random distribution)
 
 The PMF distribution from the code below doesn't give us much information:  
-![random.random() PMF](img/random_pmf.png)  
+![random.random() PMF](/img/random_pmf.png)  
 However, the CDF distribution looks to be linear, suggesting random.random() does indeed generate random numbers:  
-  
+![random.random() CDF](/img/random_cdf.png)   
 
 ```python
 import random
