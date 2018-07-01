@@ -2,7 +2,7 @@
 
 The PMF distribution from the code below doesn't give us much information:  
 ![random.random() PMF](/img/random_pmf.png)  
-However, the CDF distribution looks to be linear, suggesting random.random() does indeed generate random numbers:  
+However, the CDF distribution looks to be linear suggesting random.random() does indeed generate random numbers:  
 ![random.random() CDF](/img/random_cdf.png)   
 
 ```python
