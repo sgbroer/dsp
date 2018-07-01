@@ -1,5 +1,7 @@
 [Think Stats Chapter 5 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2006.html#toc50) (blue men)
 
+From the output of the code below, ~34.3% of US men meet the height requirements for the Blue Man Group
+
 ```python
 import scipy.stats
 #Set up variables for male height distribution
