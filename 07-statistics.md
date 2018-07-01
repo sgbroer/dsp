@@ -110,7 +110,7 @@ Looks like the probability that Elvis was an identical twin is about 29%
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Bayesian and frequentist statistics differ in their definitions of probability. A frequentist approach assigns probability only to outcomes of repeatable experiments, where the probability of an event is the limit of the number of trials in an experiment that result in the outcome of interest as the total number of trials goes to infinity. Bayesian statistics, on the other hand, take a much looser definition assigning probabilities to represent uncertainties, expectations, assumptions, etc. From these fundamental differences, the two approaches diverge in different areas, including hypothesis testing, confidence intervals, and prediction.
 
 ---
 
