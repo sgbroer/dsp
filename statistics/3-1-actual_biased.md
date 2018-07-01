@@ -1,7 +1,7 @@
 [Think Stats Chapter 3 Exercise 1](http://greenteapress.com/thinkstats2/html/thinkstats2004.html#toc31) (actual vs. biased)
 
 The code below generates the following plot of the actual vs biased distributions of children per family:
-![Biased v Actual Distributions](/sgbroer/dsp/)
+![Biased v Actual Distributions](/sgbroer/dsp/images/biased_v_actual)
 As is clear on the chart, families with no children are excluded entirely, while families with more children are majorly overrepresented.
 This is shown also by the difference in means; the biased mean of ~2.4 is over double actual mean ~1. 
 
