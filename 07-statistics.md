@@ -96,7 +96,7 @@ P(I|T) = (P(T|I) * P(I)) / P(T)
   
 So, let's track down those terms:  
 The probability of an identical twin we are given: P(I) = 1/300  
-Since it is by definition not possible to be both a fraternal and identical twin, we can simply combine they probability of each to get the general probability of a twin generally: P(T) = 1/300 + 1/125  
+Since it is by definition not possible to be both a fraternal and identical twin, and there are no other types of twins, we can simply combine the probability of each to get the probability of a twin generally: P(T) = 1/300 + 1/125  
 And for the remaining term, we know the probability of being a twin given being identical is 1 by definition. So:  
   
 P(I|T) = (P(T|I) * P(I)) / P(T)  
